@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Apr 12 15:33:57 2022
+https://github.com/Srilthe/PythonHelp/blob/main/Calculator.py
 """
 import tkinter as tk
 from tkinter import ttk
